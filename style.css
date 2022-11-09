@@ -1,0 +1,22 @@
+h2,h3
+{
+    text-align: center;
+}
+#score_id
+{
+    color: tomato;
+}
+h1
+{
+    text-align: center;
+    
+}
+.canvas_div
+{
+    text-align: center;
+    
+}
+#gameStatus 
+{
+    color: red;
+}
